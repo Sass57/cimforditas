@@ -98,3 +98,8 @@ td{
   border: 1px solid black;
   justify-content: center;
 }
+
+p {
+  text-align: justify;
+  text-indent: 25px;
+}
