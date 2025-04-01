@@ -73,11 +73,28 @@ a:hover{
 a:visited{
   text-decoration: none;
 }
-
-th{ 
-  background-color: rgba(227, 225, 233, 0.8);
+table{
+  border: 3px solid green;
+  border-collapse: collapse;
   justify-content: center;
+  height: 250px;
+  width: 600px;
+  align-items: center;
+  float: left;
+}
+th{ 
+  background-color: green;
+  justify-content: center;
+  border: 1px solid black;
+  text-align: center;
+  color: white;
 }
 tr{
+  justify-content: center;
+  border: 1px solid black;
+  text-align: center;
+}
+td{
+  border: 1px solid black;
   justify-content: center;
 }
