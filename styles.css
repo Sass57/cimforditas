@@ -4,6 +4,9 @@ body {
   background-position-x: center;
   background-position-y: center;
   background-attachment: fixed;
+  background: url(hatter.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 #content {
@@ -42,6 +45,9 @@ h2 {
 p.imgtitle {
   font-size: 1.1em;
   margin: 0;
+  font-style: italic;
+  justify-content: center;
+  line-height: 130%;
 }
 
 table,
@@ -53,3 +59,4 @@ a:link,
 a:visited {
   color: blue;
 }
+
