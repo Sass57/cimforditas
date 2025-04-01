@@ -70,3 +70,14 @@ a:hover{
   text-decoration: none;
   color: yellow;
 }
+a:visited{
+  text-decoration: none;
+}
+
+th{ 
+  background-color: rgba(227, 225, 233, 0.8);
+  justify-content: center;
+}
+tr{
+  justify-content: center;
+}
