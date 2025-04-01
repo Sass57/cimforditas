@@ -62,3 +62,11 @@ a:visited {
   justify-content: center;
   line-height: 130%;
 }
+
+a{
+  text-decoration: none;
+}
+a:hover{
+  text-decoration: none;
+  color: yellow;
+}
