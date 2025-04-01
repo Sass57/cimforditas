@@ -45,9 +45,6 @@ h2 {
 p.imgtitle {
   font-size: 1.1em;
   margin: 0;
-  font-style: italic;
-  justify-content: center;
-  line-height: 130%;
 }
 
 table,
@@ -60,3 +57,8 @@ a:visited {
   color: blue;
 }
 
+.imagetitle{
+  font-style: italic;
+  justify-content: center;
+  line-height: 130%;
+}
